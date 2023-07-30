@@ -55,6 +55,7 @@ export const DataTable = styled.table`
   height: 100%;
   border-collapse: collapse;
   text-align: center;
+
 `;
 
 export const TableTh = styled.th`

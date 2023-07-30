@@ -10,11 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "axios": "^1.4.0",
+    "components": "^0.1.0",
+    "i": "^0.3.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.1",
-    "styled-components": "^6.0.4"
+    "react-router-dom": "^6.14.2",
+    "styled": "^1.0.0",
+    "styled-component": "^2.8.0",
+    "styled-components": "^6.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.14",
