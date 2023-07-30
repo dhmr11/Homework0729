@@ -2,11 +2,6 @@ import {useLocation} from 'react-router-dom';
 import React,{useState,useEffect} from 'react';
 import styled from "styled-components";
 
-const Detail = () => {
-  
-
-    const location = useLocation();
-  
     const Box = styled.div`
       display:flex;
       flex-direction: column;
@@ -53,6 +48,12 @@ const Detail = () => {
     const TopRight = styled.div`
 
           `
+const Detail = () => {
+  
+
+    const location = useLocation();
+  
+
 
           
   return(
